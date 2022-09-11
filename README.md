@@ -22,9 +22,9 @@ This project was documented using Wiki documentation of GitHub to click the next
 [![Wiki GitHub](https://img.shields.io/badge/Wiki_GitHub-ECEFF4?style=for-the-badge&logo=Github&logoColor=2E3440)](https://github.com/Three-Points/Kubecity/wiki)
 
 **Content**
-1. [Pods](https://github.com/Three-Points/dockery/wiki/1.-Pods)
-2. [Deployments Replica Set](https://github.com/Three-Points/dockery/wiki/2.-Deployments)
-3. [Deployments Networking](https://github.com/Three-Points/dockery/wiki/3.-Docker-Compose,-Build-Image-and-Persistence)
+1. [Pods Management](https://github.com/Three-Points/Kubecity/wiki/1.-Pods-Management)
+2. [Replica Set](https://github.com/Three-Points/Kubecity/wiki/2.-Replica-Set)
+3. [Networking](https://github.com/Three-Points/Kubecity/wiki/3.-Networking)
 
 ### ✍️ Author
 
