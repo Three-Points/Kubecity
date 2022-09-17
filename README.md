@@ -25,6 +25,7 @@ This project was documented using Wiki documentation of GitHub to click the next
 1. [Pods Management](https://github.com/Three-Points/Kubecity/wiki/1.-Pods-Management)
 2. [Replica Set](https://github.com/Three-Points/Kubecity/wiki/2.-Replica-Set)
 3. [Networking](https://github.com/Three-Points/Kubecity/wiki/3.-Networking)
+4. [Advanced Kubernetes](https://github.com/Three-Points/Kubecity/wiki/4.-Advanced-Kubernetes)
 
 ### ✍️ Author
 
